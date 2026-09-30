@@ -1,0 +1,1377 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a44f5dccab8b7606b9189212d9e4805a8db315220114c8e2f275641ea0ccc71b",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1 - Select Checklist Questions for a Work Result",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:fb813d9c34098ff23c729cb77818d7e6b6af22cbb9f72cc2a5021801f4ed1dbc",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:4332b45731a0a7b923d88a31a4b71d92e00fe1a84cf85ae1838d3d188757964f",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:0830176f0844177ef2540ee3456b690a759a97aa325c80a63a5e832be211428a",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:20d234b2fe25d82b6eb51356545a810bcc6b69aee320cfa6325448e24b1cedab",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#solution"
+    },
+    {
+      "anchor": "recover-the-work-and-the-consequential-difference",
+      "content_hash": "sha256:36315f00a9829e3f4c5532671ce7e14ad375aafb8ac6cba670506286a028e51e",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:4.1 - Recover the work and the consequential difference",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#recover-the-work-and-the-consequential-difference"
+    },
+    {
+      "anchor": "propose-questions-and-test-their-contribution",
+      "content_hash": "sha256:5ac28ad2970dd59c69ee0edda462fe4781842cd080683ff1607b76ee6c60cb45",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:4.2 - Propose questions and test their contribution",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#propose-questions-and-test-their-contribution"
+    },
+    {
+      "anchor": "select-coverage-and-a-useful-stopping-point",
+      "content_hash": "sha256:ab4fac2af9e995480e1669c6a25dba5616ba3dcedbd6387324ccdc344cbb43d2",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:4.3 - Select coverage and a useful stopping point",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#select-coverage-and-a-useful-stopping-point"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:bdf6e04f4ba28c97a8a95bbc74c177360bf5ef5068996f926babeaa31de1d9eb",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:7 - Conformance Checklist",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:93557341dcf815097b90e29ab479975ece25ae0fb1443ebaddf0140b2af8c742",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:9 - Consequences",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:4f249b9d88c339a7083974450b93bae33ea84ee8b71b95331aa4136797273bd4",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "CHK.1:12 - Relations",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:a6f87a8f3083f4801d7020e916a5541c4d090171205b5e59baeb146c1df43010",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "Dependencies",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6a2054b6c5c4c68ee4812d0882ac3e77af217a3adad6b6a0a4157f3bf3c31026",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-me/contract/ME-3#root; FPF spec://ai.lev/fpf-spec/contract/B-1-5#root, spec://ai.lev/fpf-spec/contract/E-10-D2#root; spec://ai.lev/fpf-eng-chk/contract/CHK-6#root when criteria are uncertain @status:spec/done",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:6fe922217e6af68bb7d9b24c56aadc5dbd5d616267a0e69db79d51c482914f19",
+      "doc_path": "contract/CHK-1",
+      "file": "vibevm/vibespecs/contract/CHK-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-chk/contract/CHK-2#root, spec://ai.lev/fpf-eng-chk/contract/CHK-6#root @status:spec/done",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:49442c7cf05fd469a33f78b59477284dfccc08184ad1c6ee9ca36e70b0a71ffb",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2 - Construct a Checklist Template That Preserves Its Questions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:efd773bdc354c871dc4c0c8122fa72170114dad85bf8f6c35efb2747cbe40d87",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:75fc4a5bb709e52a39742851ea0a4dae91bc73d2b2e6e956e8ab380371479b37",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:8ad00dd27a0835b37af767c46b44b85eecd41d02e1ea2b75c52de83c3165e012",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:57a8f11e84ede07d123f375aab5f7869b637ef0dde2b320389a17753736b5ff2",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#solution"
+    },
+    {
+      "anchor": "carry-the-question-and-its-interpretation-together",
+      "content_hash": "sha256:be244f22a03b7335508e57373aa1b6a4f6840dcb0e76abd5b5306ad588e1044e",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:4.1 - Carry the question and its interpretation together",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#carry-the-question-and-its-interpretation-together"
+    },
+    {
+      "anchor": "give-answers-enough-expressive-range",
+      "content_hash": "sha256:518238a2c61f4012fa01f0b20fecea667206ac4b16b4371511bcd6fc474a7cc6",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:4.2 - Give answers enough expressive range",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#give-answers-enough-expressive-range"
+    },
+    {
+      "anchor": "transform-the-form-and-compare-the-meaning",
+      "content_hash": "sha256:07d82c05ec916e4dc1e6042bfa313cfea0abc37515dc5e8705007a4c6adfd75b",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:4.3 - Transform the form and compare the meaning",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#transform-the-form-and-compare-the-meaning"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:747d7043db87b303256c7709e68d70f86b41ea0740bdc8126612d6f813ccd8d2",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:7 - Conformance Checklist",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:71338e561a124b11239aca6f83dd42bb607430dd458f1f52e99ea544558954b4",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:9 - Consequences",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:08914836c58c3d464fa796009bd298ea327516bb2c35666264058f7da93ce927",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "CHK.2:12 - Relations",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:b0950391238924ce7a6ec072f34bd7765075f223aa8e1e523e27800f6bcfe6ea",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "Dependencies",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:27f0f54337e5611b5814f0da894fcc1f26396a87bba3c4b8b27a3183f92cca9a",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-chk/contract/CHK-1#root or an existing question set; spec://ai.lev/fpf-eng-me/contract/ME-8#root; spec://ai.lev/fpf-eng-exd/contract/EXD-1#root, spec://ai.lev/fpf-eng-exd/contract/EXD-6#root @status:spec/done",
+      "line": 96,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:4936a856c867414fa0ba0b1cca0464f3c52c9e10f04249961e512b6b7ada3fea",
+      "doc_path": "contract/CHK-2",
+      "file": "vibevm/vibespecs/contract/CHK-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-chk/contract/CHK-3#root @status:spec/done",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:de09dbf7c8eb747e3a29327ff6e0be6d585e26715939917d80ab2ee1b41ddd28",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3 - Fit a Checklist to Its Occasion of Use",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:76e3654cfa8f95ee040071ffb54a7876b1c7a9d26dcbd3d918999c49725543a3",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:41c16ed36a4f7a886119e8a6678134595ccaf6feefc69e1331d9da7069bd8e2e",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:c6e35923c562f1839e1cef6cc53c2060314bf0a993e1fcc5c430056d67efc8d5",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:1909821c136081118725d0e14d65886e53f7fa4043ff2ee8ff5e503ab0bf6b03",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#solution"
+    },
+    {
+      "anchor": "locate-an-occasion-that-can-change-the-work",
+      "content_hash": "sha256:e75c2f6e7cbeb635ad4ac603932ae81c588b33f8a328693e3b227d0ac5c1399e",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:4.1 - Locate an occasion that can change the work",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#locate-an-occasion-that-can-change-the-work"
+    },
+    {
+      "anchor": "make-a-truthful-answer-possible",
+      "content_hash": "sha256:971ae8cfce1012e8d098d115d435f02fa28bedfc87f2053218c7df0f754b6f56",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:4.2 - Make a truthful answer possible",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#make-a-truthful-answer-possible"
+    },
+    {
+      "anchor": "try-the-arrangement-and-repair-the-obstruction",
+      "content_hash": "sha256:073a383b08e3ad774ff37faf17f5b47f9449b5ca3125d216058b62e5cc37304b",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:4.3 - Try the arrangement and repair the obstruction",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#try-the-arrangement-and-repair-the-obstruction"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:642c8444a0fa8d6b6bafe63abb0a2fae83667cf59a9d5eecceb46ce5592824bc",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:7 - Conformance Checklist",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:129e28fa62eea465c6fba9b332c60f67e78542bca31914823930023d12130410",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:9 - Consequences",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:fdcb74e8eb77e074fec565e705afb2a612dd115b75fe2ca5085fb3fe14403eb3",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "CHK.3:12 - Relations",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:eb312ea719817c08e8633f38eb3010b542d6bf52b5b248eb6c77d6931940b6d7",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "Dependencies",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:d5856a4c7b3b050419be6a3e691148762432f35ac20552169ef241f5202a8def",
+      "doc_path": "contract/CHK-3",
+      "file": "vibevm/vibespecs/contract/CHK-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-chk/contract/CHK-2#root or an existing template; spec://ai.lev/fpf-eng-me/contract/ME-10#root, spec://ai.lev/fpf-eng-me/contract/ME-11#root, spec://ai.lev/fpf-eng-me/contract/ME-16#root @status:spec/done",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:952642f90a44a128e64560e32c6dddefced48a5f280fa38298493f201b3ee914",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4 - Use a Checklist to Answer Questions and Act on the Results",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f63dda94ac9982eb750f2a066ce448722eadfef68c988af0f449e72d52665bdb",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:339fc15664018e4fd529a8b7993202b476ee95950ca1143ed393033c34e58a9e",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:adcbb8a97a9f73bc73862af4c47400429b6b77110115238648d570e5ebac5f59",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:317ede4c9802cecf2f4c4a97a23762d7417c99ef6923715bb1ccff05afbcc854",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#solution"
+    },
+    {
+      "anchor": "bind-the-question-to-this-subject-and-occasion",
+      "content_hash": "sha256:24ca639890b7c932daaa6db99445fcab994007d34f5ed51fd42a01992dc33318",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:4.1 - Bind the question to this subject and occasion",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#bind-the-question-to-this-subject-and-occasion"
+    },
+    {
+      "anchor": "obtain-and-express-the-answer",
+      "content_hash": "sha256:e02b1ab49ea885114ad9a6e1dbc2a8f221cbc4008a0c71e4088c0c0f3cbce521",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:4.2 - Obtain and express the answer",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#obtain-and-express-the-answer"
+    },
+    {
+      "anchor": "decide-what-the-answer-changes",
+      "content_hash": "sha256:3e655c504ed7ebef54742f1dec7c950f2a4f05e571f2c354d5d671b8d96e4dc2",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:4.3 - Decide what the answer changes",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#decide-what-the-answer-changes"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:8b5ab8be0e62397e8f7f758fc80ac6d2eaf7c86f57107b28cb2d01f7a17d8546",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:7 - Conformance Checklist",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:f468606b63e1f3d99663f59ab6377f14a82b9edc73a2df29587f9a9683a60f85",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:9 - Consequences",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:942a77255ed989853a1705a7b949048bd3023454f84389ef3c05d2e90e5fcf0f",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "CHK.4:12 - Relations",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:1b992ae0e2698ef7b98117005398a350ffa4ecce9fbea5d530220aeda608e5ee",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "Dependencies",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:b5fe7533f28c914e15c1025cb6dd25cb283c137ac6ce158cbdae3a303ca61c84",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-adm/contract/ADM-7#root; spec://ai.lev/fpf-eng-ops/contract/OPS-6#root, spec://ai.lev/fpf-eng-ops/contract/OPS-18#root; spec://ai.lev/fpf-eng-chk/contract/CHK-5#root for shared reliance @status:spec/done",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:afd41ad861eab3f5e3fe2feeea6270c64c48f11627632cf6e1da1944f5c72e82",
+      "doc_path": "contract/CHK-4",
+      "file": "vibevm/vibespecs/contract/CHK-4.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-chk/contract/CHK-5#root @status:spec/done",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-4#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:017f5159ae2dc1ad95cf22968feb512a907853196353ee64383cff7522bd463c",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5 - Reconcile Checklist Results Across Shared Work",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:e41b153c407fcbfbb3dfbe78f7e2083bf708e37a5a0eb8c73346ed58c43a2a3e",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:49fb56e0171ec807389c06913344cdc8a5fd6211de7fe27457643d6f6c4beab0",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:c684468c39a1f52cac3c699956c9aff6ef9f1b0173cf58fe4881601194170bc7",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:1a2fd3954b451291afb555c2a1520abc4b854ad7867f3ed2dfa3e1b704ddd1a0",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#solution"
+    },
+    {
+      "anchor": "recover-the-shared-question-and-contributing-claims",
+      "content_hash": "sha256:a4e860ee1f0c3944aace6f62c7def8a60602f5990afecfbe291233d4b569613e",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:4.1 - Recover the shared question and contributing claims",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#recover-the-shared-question-and-contributing-claims"
+    },
+    {
+      "anchor": "test-how-the-contributions-support-the-whole",
+      "content_hash": "sha256:3b6840a294d04630073c422b5339fe7f53750605bbf8c517071e46660d72627b",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:4.2 - Test how the contributions support the whole",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#test-how-the-contributions-support-the-whole"
+    },
+    {
+      "anchor": "recover-after-change-or-interruption",
+      "content_hash": "sha256:ea26a9da2ee6b9038f63943b334290d27eac77aa711e3e816f7795594b925268",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:4.3 - Recover after change or interruption",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#recover-after-change-or-interruption"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:417cbee653126f42c311ea782577d04387a2a2b27cffa9d7352f2d222efe7450",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:7 - Conformance Checklist",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:5cc50594702cf80f9fc25d42d0f0934d774d89c01d7b6e40a79e416d37c8c588",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:9 - Consequences",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d095b1678c3db27addd2e5c3b24e74058863b8cc7e6f8bbe086f9c489e6832db",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "CHK.5:12 - Relations",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:4b553d6739f895581c050831f0e4435f03d8ca6779f12b67f640483bb2b6b5b8",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "Dependencies",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6935f08062bf6fa263b84e87d67debf859b2087f4330a4b38561b2ff104e7171",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-chk/contract/CHK-4#root; spec://ai.lev/fpf-eng-ops/contract/OPS-3#root, spec://ai.lev/fpf-eng-ops/contract/OPS-4#root; spec://ai.lev/fpf-eng-adm/contract/ADM-13#root; FPF spec://ai.lev/fpf-spec/contract/B-1-5#root, spec://ai.lev/fpf-spec/contract/A-15-10#root @status:spec/done",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:d2f6777284c73d3e25446cdd24c1b404f3ac1afbca84ee8e734f64163cbd4ece",
+      "doc_path": "contract/CHK-5",
+      "file": "vibevm/vibespecs/contract/CHK-5.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-chk/contract/CHK-4#root @status:spec/done",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-5#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:7b144f5e788479f3c36be345f945f73cb8a0a8cc629b1b9cdeb713e9f0ea7c76",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6 - Qualify Checklist Criteria and Checking Means",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:5b009c7d875d84eff6115f9c161e35cf0b2f63fc1c3c4b97f21e67852de86b75",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:1 - Problem frame",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:e4d3010f124ce88ce2a68592920f153648ccd258df2fd669712b411f4971e7c9",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:2 - Problem",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:915847486f74c482acbadf8d5b0d4dfd35561534f265248f4e9cd26f35e4cefa",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:3 - Forces",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:0ef9a521705a2c2cb8724605019f670ac7b1287d2b2087ad248c46ebdd7ae94f",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:4 - Solution",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#solution"
+    },
+    {
+      "anchor": "recover-the-claim-basis-and-intended-reliance",
+      "content_hash": "sha256:e5dfae4fd00a3fb235c033e22307cfde6380da7527a366e83c1aaf07ee1ed17e",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:4.1 - Recover the claim, basis and intended reliance",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#recover-the-claim-basis-and-intended-reliance"
+    },
+    {
+      "anchor": "construct-a-discriminating-challenge",
+      "content_hash": "sha256:a83bfa2e4bb14d8abc4a25c07049113b74afaa306307bef7d9c1bfb87c7fe297",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:4.2 - Construct a discriminating challenge",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#construct-a-discriminating-challenge"
+    },
+    {
+      "anchor": "state-the-bounded-result-and-a-return-condition",
+      "content_hash": "sha256:ed53871f457b8fb68fa3765af5d9416f593ba1e5967b45d0607ce7646f7b32d0",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:4.3 - State the bounded result and a return condition",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#state-the-bounded-result-and-a-return-condition"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:fecbd6d1edffb7f7bde16e29580365bd279d3e875055dcb1521a356d8dede3d1",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:7 - Conformance Checklist",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:ccd23abe526c0f666bdfbea59bbde070f79cbe3d32a74a67f3ef8a845b9e2266",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:9 - Consequences",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:b0ed6ccf891b46fe4b9ad23e1f33393e7ba7c62ef2a84a00ddfdbce2d2f518d5",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "CHK.6:12 - Relations",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:6c0d2c2bf1b8179cd530036d211ca217ff6062079b577a111b16aaa88c825f6d",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "Dependencies",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:88762dc51d6a8608d00d791f2839d75a2c26eaf7205a64f546d80116e9909777",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-me/contract/ME-3#root, spec://ai.lev/fpf-eng-me/contract/ME-11#root, spec://ai.lev/fpf-eng-me/contract/ME-14#root; spec://ai.lev/fpf-eng-adm/contract/ADM-7#root; spec://ai.lev/fpf-eng-chk/contract/CHK-1#root for coverage @status:spec/done",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:78e14315e271c4cb894ca20c632f9c30d4b2e1708d2f3c950b5c5c3965f2a30c",
+      "doc_path": "contract/CHK-6",
+      "file": "vibevm/vibespecs/contract/CHK-6.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-chk/contract/CHK-1#root @status:spec/done",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-chk/contract/CHK-6#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b44d056cd1dc30367fa714acba3d186013a5eb1e286b7a2c0928b001e45a032d",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Checklist Principles Framework",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:24bbc2ad096b5b7f521d820089f2bd63394337a70c05cd728ccd479004154b53",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:6c2449c759074d2f2205bb308e538eca99c56a597a350b140d8d8fc2d39820cd",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:1 - The problem and the contribution",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:ea2c1bf58614dddf111478c366c75830ecb9676eeb0280192a1a1bfe23071ec0",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:2 - Subjects, descriptions and useful characteristics",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:0485da71b86e862dc5b621b3b0012ead0e01223eba0dad9b9789874d237f7399",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:3 - Change, simultaneous work and the whole result",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:321f03710b54ea61d5194648e2a087f999cb0544f6a8524f488b8c7af99a756c",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:4 - Choosing and combining the Methods",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:d7f3683d8a96f980d983db565cc111419d45cd9864e3784e7e264ef8edf94a7a",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:5 - Judging use and learning from it",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:5d1050d3cae40280131d5d7bcc128722e769c042773ef030022c394bd54866fe",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:6 - What this publication preserves and where to return",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:46d6e3ba4373e0de4c64dcd4c5eaecc8513185388c9f8c4d49b4bcbad00c0466",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CHK.Preface:End",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b5c00aa6c300eea04ad7b9362178e44c1f0ba8d75ac8b6d2f54c0744097524ee",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Checklist Principles Framework Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:6a4c22b686cb41b163316a099d3a7c3e5fb97b62330ac84d002f504e80543b46",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#practical-entries"
+    },
+    {
+      "anchor": "chk-omission-useful-questions-are-being-missed",
+      "content_hash": "sha256:4b0f8a1cf07bd1e3f17f999eca34303f2ad21ed701475eaafbc1526178bfd125",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CHK-OMISSION — Useful questions are being missed",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#chk-omission-useful-questions-are-being-missed"
+    },
+    {
+      "anchor": "chk-answers-the-list-exists-and-work-is-happening",
+      "content_hash": "sha256:828d64847e1490cd149303a52a46b9e15859d8ea6ed1d7dc081089a5a25ca72e",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CHK-ANSWERS — The list exists and work is happening",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#chk-answers-the-list-exists-and-work-is-happening"
+    },
+    {
+      "anchor": "chk-checker-a-generated-or-inherited-check-looks-convincing",
+      "content_hash": "sha256:3c0a76fcbe64f546472e57675f5d2248538af47289e71a1ca15087cd08b6ec44",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CHK-CHECKER — A generated or inherited check looks convincing",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#chk-checker-a-generated-or-inherited-check-looks-convincing"
+    },
+    {
+      "anchor": "chk-shared-several-people-have-green-lists-but-the-session-is",
+      "content_hash": "sha256:5cd66a2cc2b7d142189b6231b6fbb38e3c3919bb0bc56b1b47034e426e763637",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CHK-SHARED — Several people have green lists, but the session is uncertain",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#chk-shared-several-people-have-green-lists-but-the-session-is"
+    },
+    {
+      "anchor": "what-changes-in-practice",
+      "content_hash": "sha256:dcc87ec9861070f9c91425fb3a6f5e068b811b543966da9dbc1d0a1728902354",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "What changes in practice",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/README#what-changes-in-practice"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8114c19e8e593fede3ce7669852cd6c89599951574732fa8e4ab589bbcfddd50",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/TOC#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:1087fb2ffdb25e19d14d29774ae6739e65f748669e5dae6b5813a84238ff1af0",
+      "doc_path": "pub/applications",
+      "file": "vibevm/vibespecs/pub/applications.md",
+      "heading": "Applications",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/applications#root"
+    },
+    {
+      "anchor": "from-a-recurring-omission-to-a-useful-aid",
+      "content_hash": "sha256:68d34945d868945abca4dbac80eab315b0a96a38d58b7c82fdc7b3c8945fefbc",
+      "doc_path": "pub/applications",
+      "file": "vibevm/vibespecs/pub/applications.md",
+      "heading": "From a recurring omission to a useful aid",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/applications#from-a-recurring-omission-to-a-useful-aid"
+    },
+    {
+      "anchor": "shared-work-with-uncertain-criteria-and-changed-premises",
+      "content_hash": "sha256:ee167edae9b2d497efb9c861a0ec29f7574a8c3c989a942aba2fd8860efbd3d9",
+      "doc_path": "pub/applications",
+      "file": "vibevm/vibespecs/pub/applications.md",
+      "heading": "Shared work with uncertain criteria and changed premises",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/applications#shared-work-with-uncertain-criteria-and-changed-premises"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:0fde2ccec0bf76e8f303fd63d10f549d9e064b0b34e36f34802b55e6f30f52cb",
+      "doc_path": "pub/edition-and-citation",
+      "file": "vibevm/vibespecs/pub/edition-and-citation.md",
+      "heading": "Edition and citation",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/edition-and-citation#root"
+    },
+    {
+      "anchor": "license-and-reuse",
+      "content_hash": "sha256:6be3b393df38394bcda6690ea1455d7d9907cc3431938e73c4ccec53065f885d",
+      "doc_path": "pub/edition-and-citation",
+      "file": "vibevm/vibespecs/pub/edition-and-citation.md",
+      "heading": "License and reuse",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/edition-and-citation#license-and-reuse"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:1ad0f5f8842a3fc8e2c00802632623a8cfa3f9b3220cd60dd64f7dcf5af608ef",
+      "doc_path": "pub/parts/patterns",
+      "file": "vibevm/vibespecs/pub/parts/patterns.md",
+      "heading": "Patterns",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/parts/patterns#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:183f02ce51058265b09b791cb5814a1998839e1141c91d779c2b7b24697c822f",
+      "doc_path": "pub/sources-and-dependencies",
+      "file": "vibevm/vibespecs/pub/sources-and-dependencies.md",
+      "heading": "Sources and dependencies",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/sources-and-dependencies#root"
+    },
+    {
+      "anchor": "source-contributions-and-their-limits",
+      "content_hash": "sha256:357f9c60d9b817f063b82dab042e6d1433edde14f24b27ce8f415959a8a60311",
+      "doc_path": "pub/sources-and-dependencies",
+      "file": "vibevm/vibespecs/pub/sources-and-dependencies.md",
+      "heading": "Source contributions and their limits",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/sources-and-dependencies#source-contributions-and-their-limits"
+    },
+    {
+      "anchor": "relied-on-framework-content",
+      "content_hash": "sha256:780f5a05c2dd6640c72aa68951ecc03beaffa8e069d0c6f2b99b95d832606c1b",
+      "doc_path": "pub/sources-and-dependencies",
+      "file": "vibevm/vibespecs/pub/sources-and-dependencies.md",
+      "heading": "Relied-on framework content",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/sources-and-dependencies#relied-on-framework-content"
+    },
+    {
+      "anchor": "refresh-and-improvement",
+      "content_hash": "sha256:55f74d42f43d83ecd0837023732610d1e9132f3d2c7e7d0719a439f585d65614",
+      "doc_path": "pub/sources-and-dependencies",
+      "file": "vibevm/vibespecs/pub/sources-and-dependencies.md",
+      "heading": "Refresh and improvement",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-chk/pub/sources-and-dependencies#refresh-and-improvement"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:d622eb9eb2755886025120316a8240e797add02b1bf31a0c59e87cb9b458b885",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1 - Select Checklist Questions for a Work Result: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:552f4431360c38f3aa1365df8606b5e7b029e37a6dcbd8bbf0221a8500e244ab",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:e620f30e6017a7860112f69946d4e3fafe6a8a1b51f7eb31887c6bee2805c880",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:4a7a26904434eba360806ce111cfc3b69b8dc5419146d7ac8644c71361807abc",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:c5e103b58f9395d4f41f5526651921b0a6d9644249ce0496dce3df730e875a7b",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:b306ff45a4b739911f508a8d3e312e2d0a92d286fea1457e378c8360410133e6",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:11 - SoTA-Echoing",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:be57698ad7b45e6c0715414f51a99137088c9eb2d1b1841d44be96c095507b86",
+      "doc_path": "source/CHK-1",
+      "file": "vibevm/vibespecs/source/CHK-1.md",
+      "heading": "CHK.1:End",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:22cac6fbec1e59107b7719cdd1e32d270bc6d4acab7bdf682859ff89d1f87176",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2 - Construct a Checklist Template That Preserves Its Questions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:9abd311ad00efebcd27269df3a865a5ab6426408c2c0574456993b00e756f33b",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:19e24838584a4aed60b6a72a4e7e5a685c26269c8a18d939ef5e7c967cce0123",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:6 - Bias-Annotation",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:ecb008525af44a86523f3d8eddcd3dace40394d09443772f569676c5c257ea75",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:3023fde183fbe7eddc694341601d82248582b02851d4fd974dac59c62380c62c",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:10 - Architectural Rationale",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:65b14c58b850ff0ca39929f22787d87ce5ea9e2d5bc1362b72e7043d2cd13684",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:11 - SoTA-Echoing",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:562657a76963be17fc0ffa13200408fe9de85ce075505d4d35d0ec27ba055a0c",
+      "doc_path": "source/CHK-2",
+      "file": "vibevm/vibespecs/source/CHK-2.md",
+      "heading": "CHK.2:End",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:d4a41d92d22779ad6928ae0f67d80ba5cedcac1e47c7af1d9c913e809b13842b",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3 - Fit a Checklist to Its Occasion of Use: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:89d61118e46cfb40b55ce26263d8b772986f5bef74368d59b8eb95f75422e124",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:e5d435d37b89a6b67245934a88f544adc00c99c775ec210228d72bf648d81b07",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:6 - Bias-Annotation",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:0f9c500677930901231f5afef3c982ed314a0728c581b403c426c36639321f43",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:0ccc2ea4430bd37599f059c5cd9a98f276b88af3a9efd08f966f2019ed9d21bf",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:10 - Architectural Rationale",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:bece03f812d713fff3b299f63346b736d15894a9850a01ff69767aac9db6808c",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:11 - SoTA-Echoing",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:5479e9ec6274e5203694f8ecf2456d62116fd19057e1d6bb5a88b7754bdb45a3",
+      "doc_path": "source/CHK-3",
+      "file": "vibevm/vibespecs/source/CHK-3.md",
+      "heading": "CHK.3:End",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:4485554862d5bd7ba9578350477f91d07743717b7d730f5756353bbfac1b6e3e",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4 - Use a Checklist to Answer Questions and Act on the Results: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:aa5272da80325a5d89c93b7e2174258943ef3071c06236ca9a2527a91e1f0ce1",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:3e36e5ea118e5247f27cbe0fb17fa801e6b0d8be2c5fcfee97ecf5c7f205b797",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:d47e06021398f1eb9b93570adf4b515c008032c696557353b231206686753fed",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:745297b2bc90401912830a8f8c4a41d26f6668ca57141641034bacd03d8379a7",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:7d45b6f5b8d25c08fb00d146664ce308ce21da9f90cdcc29d50a8bb6fd76d11e",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:11 - SoTA-Echoing",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:ca2111a707850c6a08d520e1472366b0a9c29fcfafb515adfd852b75d4180da3",
+      "doc_path": "source/CHK-4",
+      "file": "vibevm/vibespecs/source/CHK-4.md",
+      "heading": "CHK.4:End",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:b0093ba58d62d8de6746d6742d8b0e2baf0475bad36565236580816b40c078c0",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5 - Reconcile Checklist Results Across Shared Work: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:684ce5fc6a4f0994acc5f54121bfda5280bc174d651cdce15b0aa393d180d805",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:efa4acb326acbd1250d73a904089435d4a24ef2c0a5712274c8191d962a8a35f",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:6 - Bias-Annotation",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:a99828b8789f3869317da8a8cc61c0edeb258f9946360974fe30607540770921",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:5219456d9b6044c1771ec5a2f45ac9438e2ac00b06e0498a37ee6403d80ae488",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:10 - Architectural Rationale",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:0f6e58b486649d78c139b5c4a13d00738197e7d8760187745bb3c732ab462322",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:11 - SoTA-Echoing",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:33905d318aadb17d46012459cc78d7ef6d4183029da170fc3c01e964134c9feb",
+      "doc_path": "source/CHK-5",
+      "file": "vibevm/vibespecs/source/CHK-5.md",
+      "heading": "CHK.5:End",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-5#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:e018d7f3951fc1e0b1ccbb0e1faebad45084215fdad45f60cd29d456504df3f8",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6 - Qualify Checklist Criteria and Checking Means: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:33c96c68c1b0c925c3c0678bd42cb85b0a21216173c2efaa7380c50c88b8ba10",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:11379be0cfd65bc3d9214c4d5e1ef5edb71c2805eb6de2a42c63f19936d8dff2",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:6 - Bias-Annotation",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:806fbf34cf33698a55816741fc734ed81ddc9c0d9b93a818660163b14dea21bb",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:4ab1ffc8fee7a20c7c2d3dd3f5725bdf70de3340fec3fdf838cf11f4422610a4",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:10 - Architectural Rationale",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:a13fb4b63e56182ba4783965193996f57d3cabb0ce8c85e6c816d2bb350f48cb",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:11 - SoTA-Echoing",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:0f948465a3f08fb0dbbc2f2054e36c439b218922021ac37fe4e05931b8a62b41",
+      "doc_path": "source/CHK-6",
+      "file": "vibevm/vibespecs/source/CHK-6.md",
+      "heading": "CHK.6:End",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-chk/source/CHK-6#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
